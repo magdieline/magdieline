@@ -1,15 +1,15 @@
 ## 👩🏽Hello world!
 
-Meu nome é Magdieline, mais conhecida como Mag
+Meu nome é Magdieline, mais conhecida como Mag.
 
-Sou formada em enfermagem, trabalhei na área por 10 anos e decidi pela transição de carreira
+Sou formada em enfermagem, trabalhei na área por 10 anos e decidi pela transição de carreira.
 
 Faço parte do programa impulso tec, onde fui aprovada entre 23 mil inscritos e fui selecionada para a trilha back-end/DevOps
 Estou atualmente na residência tecnica com foco em NodeJ e java. 👩🏽‍💻
 
 Estudante de Engenharia de Software👩‍🎓
 
-👩🏽‍💻 Meu foco atualmente é especializar em back-end
+👩🏽‍💻 Meu foco atualmente é especializar em back-end!
 
 <div>
 

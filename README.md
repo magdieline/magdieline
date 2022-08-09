@@ -32,5 +32,6 @@ Estudante de Engenharia de Software👩‍🎓
 <img align="center" alt="magdieline-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 
-
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/magdieline/blob/output/github-contribution-grid-snake.svg)

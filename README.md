@@ -34,4 +34,4 @@ Estudante de Engenharia de Software👩‍🎓
 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/magdieline/blob/output/github-contribution-grid-snake.svg)
+

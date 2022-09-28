@@ -19,6 +19,7 @@ Estudante de Engenharia de Software👩‍🎓
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdieline&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
 ### 💞Let's get connect:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdieline-sander-061707223)
 
@@ -32,6 +33,14 @@ Estudante de Engenharia de Software👩‍🎓
 <img align="center" alt="magdieline-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 
+</div>
+
+##
+
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 

@@ -25,7 +25,7 @@ Estudante de Engenharia de Software👩‍🎓
 ## 🎓 Formação e desenvolvimento
 
 - Estudante de **Engenharia de Software**
-- Participante do **Programa Impulso Tec** (Accenture + Itaú)
+- Participante do **Programa Impulso Tec** (Accenture + Itaú) - aprovada entre 23 mil candidatos
 - Residência técnica com foco em **back-end**
 - Aprendizado contínuo em desenvolvimento e boas práticas
 

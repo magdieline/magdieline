@@ -1,15 +1,71 @@
 ## 👩🏽Hello world!
 
-Meu nome é Magdieline, mais conhecida como Mag.
+## 👋 Olá! Eu sou a Magdieline (Mag)
 
-Técnica de enfermagem por 13 anos, mas decidi pela transição de carreira.
+Sou **desenvolvedora backend em formação**, com experiência prática em **sustentação, suporte N3 e ambientes produtivos**, e foco atual em **Python e cloud (AWS)**.
 
-Faço parte do programa impulso tec (parceria entre accenture e Itaú), onde fui aprovada entre 23 mil inscritos e fui selecionada para a trilha back-end/DevOps
-Estou atualmente na residência tecnica com foco em NodeJs e java. 👩🏽‍💻
+Atuei por **13 anos na área da saúde**, e hoje estou em transição consolidada para tecnologia, aplicando no dia a dia habilidades como análise, responsabilidade e resolução de problemas.
 
 Estudante de Engenharia de Software👩‍🎓
 
 👩🏽‍💻 Meu foco atualmente é especializar em back-end!
+
+---
+
+## 💻 Experiência em tecnologia
+
+- Atuação com **suporte N3 e sustentação de sistemas**
+- Contato com ambientes produtivos e resolução de incidentes
+- Leitura e entendimento de código
+- Apoio a times de desenvolvimento
+- Experiência com versionamento de código e rotinas técnicas
+
+---
+
+## 🎓 Formação e desenvolvimento
+
+- Estudante de **Engenharia de Software**
+- Participante do **Programa Impulso Tec** (Accenture + Itaú)
+- Residência técnica com foco em **back-end**
+- Aprendizado contínuo em desenvolvimento e boas práticas
+
+---
+
+## 🎯 Foco atual de aprendizado
+
+- Desenvolvimento **backend com Python**
+- Criação de **APIs REST**
+- Organização de projetos
+- Testes automatizados (conceitos iniciais)
+- Fundamentos de **AWS**
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+- Python
+- Git & GitHub
+- APIs REST
+- SQL (conceitos)
+- AWS (conceitos)
+- Linux
+
+---
+
+## 📁 O que você vai encontrar aqui
+
+- Projetos pequenos e objetivos
+- APIs simples para estudo
+- Scripts em Python
+- Repositórios focados em aprendizado prático
+
+Cada projeto possui README explicando o objetivo e como executar.
+
+---
+
+## 🌱 Objetivo
+
+Consolidar minha atuação como **desenvolvedora backend**, evoluindo através de projetos reais e aprendizado contínuo.
 
 <div align="center">
   
